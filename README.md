@@ -1,2 +1,2 @@
 # Autonomous-Agents
-This project utilizes genetic algorithms (supervised learning) related to artificial intelligence in order to create a game which contains autonomous agents that adapt based on specific parameters with each passing "generation" of the game. Programmed in Java in the Processing IDE
+This project utilizes genetic algorithms (supervised learning) in the field of Artificial Intelligence in order to create a game which contains autonomous agents. In the program, the autonomous agents (UFOs) slowly learn to pass through a meteor field with each passing "generation" through optimization of genetic algorithms. Programmed in Java with graphics provided by the Processing IDE
